@@ -1,0 +1,31 @@
+competitor_id,competitor_name,country,industry_focus,market_share_percent,pricing_segment,product_strength,customer_count
+1,Competitor_01,United Kingdom,Healthcare,14.73,Budget,Medium,1804
+2,Competitor_02,New Zealand,Energy,14.36,Premium,Medium,2967
+3,Competitor_03,Singapore,Education,12.55,Enterprise,Medium,1408
+4,Competitor_04,United Kingdom,Technology,14.17,Budget,Low,2044
+5,Competitor_05,India,Technology,15.31,Mid-Market,Medium,623
+6,Competitor_06,India,Technology,13.37,Budget,High,126
+7,Competitor_07,Canada,SaaS,14.08,Premium,High,921
+8,Competitor_08,Germany,Manufacturing,12.12,Enterprise,Low,658
+9,Competitor_09,UAE,Technology,3.28,Budget,Medium,2102
+10,Competitor_10,United Kingdom,Retail,9.54,Mid-Market,High,2764
+11,Competitor_11,Singapore,Healthcare,8.59,Enterprise,Medium,783
+12,Competitor_12,Australia,Retail,4.72,Budget,Medium,2047
+13,Competitor_13,United Kingdom,Retail,4.98,Premium,Medium,2788
+14,Competitor_14,Germany,SaaS,16.6,Premium,Low,240
+15,Competitor_15,UAE,Technology,15.19,Mid-Market,Medium,1128
+16,Competitor_16,Canada,Finance,7.21,Premium,Medium,2726
+17,Competitor_17,New Zealand,Manufacturing,9.78,Enterprise,Medium,1495
+18,Competitor_18,Australia,Education,9.53,Mid-Market,Low,619
+19,Competitor_19,India,Retail,9.75,Mid-Market,Low,1200
+20,Competitor_20,Singapore,Finance,7.16,Mid-Market,Medium,2988
+21,Competitor_21,United Kingdom,Education,13.24,Enterprise,Low,2022
+22,Competitor_22,Singapore,SaaS,12.0,Mid-Market,Low,1733
+23,Competitor_23,Singapore,Healthcare,10.75,Budget,High,709
+24,Competitor_24,Singapore,Healthcare,1.95,Enterprise,High,1107
+25,Competitor_25,Australia,Logistics,15.93,Budget,Low,2760
+26,Competitor_26,Germany,Education,11.31,Mid-Market,Low,1980
+27,Competitor_27,Canada,Healthcare,11.21,Premium,Low,2436
+28,Competitor_28,United Kingdom,Finance,16.68,Mid-Market,Medium,2493
+29,Competitor_29,Canada,Retail,3.25,Enterprise,Low,117
+30,Competitor_30,India,SaaS,4.02,Budget,Low,2568
