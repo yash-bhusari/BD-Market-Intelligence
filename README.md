@@ -308,3 +308,9 @@ BD-Market-Intelligence/
 │   └── 04_bd_target_accounts.sql
 │
 └── README.md
+
+## Market Account Score Visualization
+
+The following visualization shows the average target-account score across the analyzed markets.
+
+![Average Target Account Score by Country](data/market_account_scores.png)
